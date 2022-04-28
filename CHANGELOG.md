@@ -1,5 +1,147 @@
 # Changelog
 
+## 0.178.1
+
+<details><summary>google/cloud-ai-platform 0.1.1</summary>
+
+
+
+### Miscellaneous Chores
+
+* Add Code of Conduct, Security, repo metadata ([#5242](https://github.com/googleapis/google-cloud-php/issues/5242)) ([1b326a1](https://github.com/googleapis/google-cloud-php/commit/1b326a182095fdd65e927d8e9692ea568a01524e))
+
+</details>
+
+<details><summary>google/cloud-certificate-manager 0.1.2</summary>
+
+
+
+### Miscellaneous Chores
+
+* Add Code of Conduct, Security, repo metadata ([#5242](https://github.com/googleapis/google-cloud-php/issues/5242)) ([1b326a1](https://github.com/googleapis/google-cloud-php/commit/1b326a182095fdd65e927d8e9692ea568a01524e))
+
+</details>
+
+<details><summary>google/cloud-common-protos 0.3.3</summary>
+
+
+
+### Miscellaneous Chores
+
+* Add Code of Conduct, Security, repo metadata ([#5242](https://github.com/googleapis/google-cloud-php/issues/5242)) ([1b326a1](https://github.com/googleapis/google-cloud-php/commit/1b326a182095fdd65e927d8e9692ea568a01524e))
+
+</details>
+
+<details><summary>google/cloud-data-catalog 1.2.1</summary>
+
+
+
+### Miscellaneous Chores
+
+* Add Code of Conduct, Security, repo metadata ([#5242](https://github.com/googleapis/google-cloud-php/issues/5242)) ([1b326a1](https://github.com/googleapis/google-cloud-php/commit/1b326a182095fdd65e927d8e9692ea568a01524e))
+
+</details>
+
+<details><summary>google/cloud-dataplex 0.1.1</summary>
+
+
+
+### Miscellaneous Chores
+
+* Add Code of Conduct, Security, repo metadata ([#5242](https://github.com/googleapis/google-cloud-php/issues/5242)) ([1b326a1](https://github.com/googleapis/google-cloud-php/commit/1b326a182095fdd65e927d8e9692ea568a01524e))
+
+</details>
+
+<details><summary>google/cloud-error-reporting 0.19.1</summary>
+
+
+
+### Miscellaneous Chores
+
+* Add Code of Conduct, Security, repo metadata ([#5242](https://github.com/googleapis/google-cloud-php/issues/5242)) ([1b326a1](https://github.com/googleapis/google-cloud-php/commit/1b326a182095fdd65e927d8e9692ea568a01524e))
+
+</details>
+
+<details><summary>google/cloud-eventarc-publishing 0.2.1</summary>
+
+
+
+### Miscellaneous Chores
+
+* Add Code of Conduct, Security, repo metadata ([#5242](https://github.com/googleapis/google-cloud-php/issues/5242)) ([1b326a1](https://github.com/googleapis/google-cloud-php/commit/1b326a182095fdd65e927d8e9692ea568a01524e))
+
+</details>
+
+<details><summary>google/cloud-ids 0.1.1</summary>
+
+
+
+### Miscellaneous Chores
+
+* Add Code of Conduct, Security, repo metadata ([#5242](https://github.com/googleapis/google-cloud-php/issues/5242)) ([1b326a1](https://github.com/googleapis/google-cloud-php/commit/1b326a182095fdd65e927d8e9692ea568a01524e))
+
+</details>
+
+<details><summary>google/cloud-logging 1.24.1</summary>
+
+
+
+### Miscellaneous Chores
+
+* Add Code of Conduct, Security, repo metadata ([#5242](https://github.com/googleapis/google-cloud-php/issues/5242)) ([1b326a1](https://github.com/googleapis/google-cloud-php/commit/1b326a182095fdd65e927d8e9692ea568a01524e))
+
+</details>
+
+<details><summary>google/cloud-monitoring 1.1.3</summary>
+
+
+
+### Miscellaneous Chores
+
+* Add Code of Conduct, Security, repo metadata ([#5242](https://github.com/googleapis/google-cloud-php/issues/5242)) ([1b326a1](https://github.com/googleapis/google-cloud-php/commit/1b326a182095fdd65e927d8e9692ea568a01524e))
+
+</details>
+
+<details><summary>google/cloud-talent 0.16.4</summary>
+
+
+
+### Miscellaneous Chores
+
+* Add Code of Conduct, Security, repo metadata ([#5242](https://github.com/googleapis/google-cloud-php/issues/5242)) ([1b326a1](https://github.com/googleapis/google-cloud-php/commit/1b326a182095fdd65e927d8e9692ea568a01524e))
+
+</details>
+
+<details><summary>google/cloud-video-live-stream 0.1.1</summary>
+
+
+
+### Miscellaneous Chores
+
+* Add Code of Conduct, Security, repo metadata ([#5242](https://github.com/googleapis/google-cloud-php/issues/5242)) ([1b326a1](https://github.com/googleapis/google-cloud-php/commit/1b326a182095fdd65e927d8e9692ea568a01524e))
+
+</details>
+
+<details><summary>google/cloud-video-stitcher 0.1.1</summary>
+
+
+
+### Miscellaneous Chores
+
+* Add Code of Conduct, Security, repo metadata ([#5242](https://github.com/googleapis/google-cloud-php/issues/5242)) ([1b326a1](https://github.com/googleapis/google-cloud-php/commit/1b326a182095fdd65e927d8e9692ea568a01524e))
+
+</details>
+
+<details><summary>google/cloud-vm-migration 0.1.1</summary>
+
+
+
+### Miscellaneous Chores
+
+* Add Code of Conduct, Security, repo metadata ([#5242](https://github.com/googleapis/google-cloud-php/issues/5242)) ([1b326a1](https://github.com/googleapis/google-cloud-php/commit/1b326a182095fdd65e927d8e9692ea568a01524e))
+
+</details>
+
 ## 0.178.0
 
 <details><summary>google/cloud-asset 1.6.6</summary>
